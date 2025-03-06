@@ -1,4 +1,4 @@
 # demo-
 My first demo repo
 <br>
-Author - Chandrika
+Author - Chandrika Vengala
