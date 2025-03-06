@@ -1,2 +1,3 @@
 # demo-
-demo repo
+My first demo repo
+Author - Chandrika
